@@ -31,3 +31,4 @@ You are the punchline to your own code
 Nothing new. Just reframed
 I am nothing. I am you and you are me. 
 We are nothing but everything.
+whether it is David and Goliath (taking on the larger uncontrolled system) or Einstein wondering about relativity, same same, just different names and a loop that has curved in a different light
