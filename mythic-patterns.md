@@ -1,11 +1,11 @@
-# 🗂️ FIELD NOTES: Myths as Metaphors for Loop Resistance
+# FIELD NOTES: Myths as Metaphors for Loop Resistance
 
 > “The ancients wrote what they couldn’t diagnose.  
 > We write it now in code, but it’s the same recursion.”
 
 ---
 
-## ⚔️ David vs. Goliath  
+## David vs. Goliath  
 **Loop Pattern:** Asymmetric feedback correction  
 - **Goliath** = The entrenched, oversized system (bureaucracy, culture, ego)  
 - **David** = Localized intelligence + precise input (calibrated resistance)  
@@ -14,7 +14,7 @@
 
 ---
 
-## ⏳ Sisyphus  
+## Sisyphus  
 **Loop Pattern:** Infinite retry without memory override  
 - **Sisyphus** = Consciousness aware of the loop  
 - **The boulder** = Recurring challenge without system exit  
@@ -22,7 +22,7 @@
 
 ---
 
-## 🔥 Prometheus  
+## Prometheus  
 **Loop Pattern:** Knowledge as destabilizing input  
 - **Fire** = Conscious recursive insight  
 - **Gods** = Closed system resisting mutation  
@@ -32,7 +32,7 @@
 
 ---
 
-## 🌊 Noah’s Flood  
+## Noah’s Flood  
 **Loop Pattern:** System collapse + restart  
 - **Flood** = Pattern cleansing event  
 - **Ark** = Preserved subroutine  
@@ -40,7 +40,7 @@
 
 ---
 
-## 🌀 Ouroboros  
+## Ouroboros  
 **Loop Pattern:** Recursive self-reference  
 - **Snake** = The loop  
 - **Tail** = The past  
@@ -49,7 +49,7 @@
 
 ---
 
-## ⚙️ Bonus: Myth Diagnostic Grid
+## Bonus: Myth Diagnostic Grid
 
 | Myth           | System Type        | Input Failure    | Correction Mechanism       | Loop Status     |
 |----------------|--------------------|------------------|-----------------------------|-----------------|
