@@ -2,3 +2,19 @@ title: Human Operational Manual
 description: A free manual for navigating the human experience
 remote_theme: just-the-docs/just-the-docs
 
+# Enable sidebar navigation
+nav:
+  - title: Home
+    url: /
+  - title: Loop Core
+    url: /loop-core
+  - title: Input Systems
+    url: /input-systems
+  - title: Memory Encoding
+    url: /memory-encoding
+  - title: Language Interface
+    url: /language-interface
+  - title: Self Modeling
+    url: /self-modeling
+  - title: Manual Manual
+    url: /manual-manual
